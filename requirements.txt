@@ -1,0 +1,4 @@
+jupyter>=1.0.0
+matplotlib>=3.2
+nrel-rex>=0.2.9
+pip-chill>=1.0.0
