@@ -1,5 +1,5 @@
 ipympl==0.5.7
-jupyterlab==2.2.4
+jupyterlab==2.2.10
 nrel-rex==0.2.9
 pecos==0.1.8
 pip-chill==1.0.0
